@@ -1,0 +1,7 @@
+D:\project\Birinchidastur\src\bin\Debug\src.exe.config
+D:\project\Birinchidastur\src\bin\Debug\src.exe
+D:\project\Birinchidastur\src\bin\Debug\src.pdb
+D:\project\Birinchidastur\src\obj\Debug\src.csproj.AssemblyReference.cache
+D:\project\Birinchidastur\src\obj\Debug\src.csproj.CoreCompileInputs.cache
+D:\project\Birinchidastur\src\obj\Debug\src.exe
+D:\project\Birinchidastur\src\obj\Debug\src.pdb
