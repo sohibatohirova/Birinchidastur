@@ -505,7 +505,6 @@ namespace src
             */
             //36. Rostlikga tekshiring a va b sonlari berilgan. 
             //  a sonini b soniga teng.
-           /*
             Console.Write("    Enter the first number:");
             var FirstNumber = Convert.ToInt32(Console.ReadLine());
             Console.Write("Enter the second number:");
@@ -518,8 +517,6 @@ namespace src
             {
                 Console.Write(false);
             }
-           */
-
             Console.ReadLine();
         }
     }
